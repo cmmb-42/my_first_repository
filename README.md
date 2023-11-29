@@ -3,6 +3,6 @@
 
 This is a text file in an example repository
 
-You can add whatever type of text you want here, and Git will preserve each version of this file so we can view the changes through space and time. 
+You can add whatever test wnat here, and Git will preserve each version of this file so we can view the changes through time. 
 
-This initial file contains a typo we'll fix later. I have now fixed the typo.
+This initial file contains a typo we'll fix later.
